@@ -105,3 +105,43 @@ Install required libraries:
 
 ```bash
 pip install -r requirements.txt
+```
+
+Run the simulation:
+
+```bash
+python simulation.py
+```
+
+---
+
+## Output Files
+
+The simulation generates:
+
+### CSV Files
+- `simulation_results.csv`
+- `summary_results.csv`
+- `ttest_results.csv`
+
+### Figures
+- `ipd_reward_curve.png`
+- `ipd_cooperation_curve.png`
+- `delay_reward_curve.png`
+- `delay_choice_curve.png`
+
+---
+
+## Research Context
+
+This project explores how reinforcement learning parameters may contribute to behavioural patterns associated with ADHD-related traits. The model is intentionally simplified and is designed for computational experimentation and interpretability rather than clinical prediction.
+
+---
+
+## Author
+
+Martyna Antas
+
+MSc Artificial Intelligence Dissertation Project
+
+University of Essex Online
