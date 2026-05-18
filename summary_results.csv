@@ -1,0 +1,7 @@
+task,profile,mean_reward,std_reward,reward_variance,mean_cooperation,cooperation_variance,mean_delayed_choice,delayed_choice_variance
+delay_discounting,adhd_hyperactive,106.881,0.755,0.571,,,0.86,0.009
+delay_discounting,adhd_inattentive,278.1,13.15,172.927,,,0.86,0.004
+delay_discounting,neurotypical,405.01,47.35,2242.044,,,0.928,0.021
+ipd,adhd_hyperactive,123.059,7.069,49.966,0.509,0.006,,
+ipd,adhd_inattentive,136.744,13.248,175.507,0.782,0.026,,
+ipd,neurotypical,130.181,21.855,477.645,0.702,0.068,,

@@ -1,0 +1,13 @@
+task,metric,comparison,t_statistic,p_value_raw,p_value_reported,significant_p_0_05,cohens_d,effect_size_interpretation
+ipd,reward,neurotypical vs adhd_hyperactive,19.61,1.9105502421160087e-82,p < 0.001,True,0.438,small
+ipd,reward,neurotypical vs adhd_inattentive,-16.24,3.5283792335537225e-58,p < 0.001,True,0.363,small
+ipd,reward,adhd_hyperactive vs adhd_inattentive,-57.637,0.0,p < 0.001,True,1.289,large
+ipd,cooperation_rate,neurotypical vs adhd_hyperactive,44.702,0.0,p < 0.001,True,1.0,large
+ipd,cooperation_rate,neurotypical vs adhd_inattentive,-16.657,4.554237469390893e-61,p < 0.001,True,0.372,small
+ipd,cooperation_rate,adhd_hyperactive vs adhd_inattentive,-96.204,0.0,p < 0.001,True,2.151,large
+delay_discounting,reward,neurotypical vs adhd_hyperactive,398.16,0.0,p < 0.001,True,8.903,large
+delay_discounting,reward,neurotypical vs adhd_inattentive,163.333,0.0,p < 0.001,True,3.652,large
+delay_discounting,reward,adhd_hyperactive vs adhd_inattentive,-822.117,0.0,p < 0.001,True,18.383,large
+delay_discounting,delayed_choice_rate,neurotypical vs adhd_hyperactive,24.897,4.3010168197099756e-131,p < 0.001,True,0.557,medium
+delay_discounting,delayed_choice_rate,neurotypical vs adhd_inattentive,27.253,1.655037767453769e-153,p < 0.001,True,0.609,medium
+delay_discounting,delayed_choice_rate,adhd_hyperactive vs adhd_inattentive,0.019,0.9844808200622241,p = 0.984,False,0.0,negligible
